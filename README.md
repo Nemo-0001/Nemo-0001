@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##👨‍💻 About Me :
+### 👨‍💻 About Me :
 
 👨‍🎓 I am an undergraduate CSE student at Zagazig University.
 
