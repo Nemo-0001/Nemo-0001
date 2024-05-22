@@ -18,6 +18,10 @@ STM: Familiar with STM32 microcontrollers for complex applications.
 
 ========================================================================================
 
+<a href=”https://www.facebook.com/abdallah.alnemr.75"><img align=”left” src=”https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white” alt=”Nemo-0001| Facebook” width=”35px”/></a>
+
+<a href=”https://www.linkedin.com/in/abdallah-elnemr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align=”left” src=”https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white” alt=”Nemo-0001| Linkedin” width=”35px”/></a>
+
 <!--
 **Nemo-0001/Nemo-0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -📫How to reach me: 
