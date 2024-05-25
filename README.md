@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-========================================================================================
+---
 
 ### 👨‍💻 About Me :
 
@@ -16,7 +16,35 @@ STM: Familiar with STM32 microcontrollers for complex applications.
 
 🔭 I’m currently working on SmartHome & ADAS projects using STM32F10x families especially STM32F103C8 & STM32F103C6.
 
-========================================================================================
+---
+
+### Languages & Tools
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![STM32Cube](https://img.shields.io/badge/-STM32Cube-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![MPLAB](https://img.shields.io/badge/-MPLAB-00539C?style=flat-square&logo=microchip&logoColor=white)
+![Microchip Studio](https://img.shields.io/badge/-Microchip%20Studio-00AEFA?style=flat-square&logo=microchip&logoColor=white)
+![Proteus](https://img.shields.io/badge/-Proteus-00AEEF?style=flat-square&logo=proteus&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
+
+---
+
+## My Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nemo_0001&show_icons=true&theme=radical)](https://github.com/Nemo_0001)
+
+---
+
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemo_0001&layout=compact&theme=radical)](https://github.com/Nemo_0001)
 
 <!--
 **Nemo-0001/Nemo-0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
