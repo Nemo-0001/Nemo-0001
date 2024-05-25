@@ -52,8 +52,9 @@ STM: Familiar with STM32 microcontrollers for complex applications.
 
 ###How to reach me: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abdallah-elnemr)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/abdallah.alnemr.75)
+<a href="https://www.linkedin.com/in/abdallah-elnemr"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<a href="https://www.facebook.com/abdallah.alnemr.75"><img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 <!--
 **Nemo-0001/Nemo-0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
