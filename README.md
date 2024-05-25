@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Programming GIF](https://example.com/programming.gif)
+
 ---
 
 ### 👨‍💻 About Me :
