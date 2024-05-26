@@ -40,13 +40,13 @@ STM: Familiar with STM32 microcontrollers for complex applications.
 
 ## My Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nemo_0001&show_icons=true&theme=radical)]
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nemo-0001&show_icons=true&theme=radical)](https://github.com/Nemo-0001)
 
 ---
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemo_0001&layout=compact&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemo-0001&layout=compact&theme=radical)](https://github.com/Nemo-0001)
 
 ---
 
