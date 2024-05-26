@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Abdallah Alnemr
 
 ![Programming GIF](https://example.com/programming.gif)
 
@@ -40,13 +40,13 @@ STM: Familiar with STM32 microcontrollers for complex applications.
 
 ## My Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nemo_0001&show_icons=true&theme=radical)](https://github.com/Nemo_0001)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nemo_0001&show_icons=true&theme=radical)]
 
 ---
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemo_0001&layout=compact&theme=radical)](https://github.com/Nemo_0001)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemo_0001&layout=compact&theme=radical)]
 
 ---
 
