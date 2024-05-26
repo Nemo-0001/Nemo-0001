@@ -57,7 +57,8 @@ STM: Familiar with STM32 microcontrollers for complex applications.
 
 <a href="https://www.facebook.com/abdallah.alnemr.75"><img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/Upsi2bGXWpdR8tav?style=social&key=YOUR_YOUTUBE_DATA_API_KEY)](https://www.youtube.com/channel/Upsi2bGXWpdR8tav)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/Abdallah Elnemr)
+
 
 
 
