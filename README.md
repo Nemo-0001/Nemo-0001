@@ -57,6 +57,9 @@ STM: Familiar with STM32 microcontrollers for complex applications.
 
 <a href="https://www.facebook.com/abdallah.alnemr.75"><img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCXXXXXXXXXXXXXXXXXXXXX?style=social)](https://www.youtube.com/channel/abdallah0001)
+
+
 <!--
 **Nemo-0001/Nemo-0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -📫How to reach me: 
