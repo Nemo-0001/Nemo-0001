@@ -14,6 +14,8 @@ ARM: Experienced in interfacing with Pic microcontrollers.
 
 STM: Familiar with STM32 microcontrollers for complex applications.
 
+ESP: Worked extensively with ESP32-CAM AI Thinker board.
+
 🧑‍💻 I’m currently learning embedded linux.
 
 🔭 I’m currently working on SmartHome & ADAS projects using STM32F10x families especially STM32F103C8 & STM32F103C6.
