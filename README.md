@@ -18,7 +18,7 @@ ESP: Worked extensively with ESP32-CAM AI Thinker board.
 
 🧑‍💻 I’m currently learning embedded linux.
 
-🔭 I’m currently working on SmartHome & ADAS projects using STM32F10x families especially STM32F103C8 & STM32F103C6.
+🔭 I’m currently working on SmartHome, ADAS and Health_Care_System projects using STM32F10x families especially STM32F103C8(BluePill).
 
 ---
 
