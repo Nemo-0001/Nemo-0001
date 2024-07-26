@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Abdallah Alnemr
 
-![Embedded Systems](https://user-images.githubusercontent.com/583231/54422213-9a5b2500-46cb-11e9-92d0-30d88d8cce0b.png)
+![Programming](https://github.com/github/explore/raw/main/topics/programming/programming.png)
 
 ---
 
