@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Abdallah Alnemr
 
-![Programming](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Programming](https://github.com/github/explore/raw/main/topics/coding/coding.png)
 
 ---
 
